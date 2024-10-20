@@ -10,7 +10,7 @@ W aplikacji można również usunąć pracownika z bazy danych, zobaczyć statys
 Ostatnią z opcji aplikacji jest ocena pracownika, gdzie można ocenić wydajność, zaangażowanie, kompetencje, kreatywność, komunikatywność i umiejętności techniczne pracownika. 
 <br>
 <br>
-Co jest potrzebne?
+Co jest potrzebne?<br>
 •	Serwer XAMPP Apache lub inny zgodny z PHP<br>
 •	System Operacyjny: Windows, Linux, macOS<br>
 •	Baza danych: MySQL lub MAriaDB<br>
